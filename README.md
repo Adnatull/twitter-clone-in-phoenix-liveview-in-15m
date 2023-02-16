@@ -1,5 +1,7 @@
 # Chirp
 
+The tutorial by Chris McCord can be found here [`Build a real-time Twitter clone in 15 minutes with LiveView and Phoenix`](https://www.youtube.com/watch?v=MZvmYaFkNJI&t=928s)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
